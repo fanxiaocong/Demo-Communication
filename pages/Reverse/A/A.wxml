@@ -1,0 +1,14 @@
+<!--pages/Reverse/A/A.wxml-->
+
+<block wx:for='{{ list }}' wx:key='*this'>
+  <button type='primary' bindtap='clickButtonAction' id='{{ index }}'>
+  {{ item }}
+  </button>
+</block>
+
+<view class='result'>
+  <text>传参内容：</text>
+  <view>
+  {{ data }}
+  </view>
+</view>

@@ -1,0 +1,6 @@
+<!--pages/Forward/B/B.wxml-->
+
+<text>传参内容：</text>
+<view>
+{{ data }}
+</view>

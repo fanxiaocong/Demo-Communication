@@ -1,0 +1,8 @@
+<!--pages/index/index.wxml-->
+
+<block wx:for='{{ list }}' wx:key='*this'>
+  <button type='primary' bindtap='clickButtonAction' data-url='{{ item.url }}'>
+  {{ item.name }}
+  </button>
+</block>
+

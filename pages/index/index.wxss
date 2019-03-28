@@ -1,0 +1,8 @@
+/* pages/index/index.wxss */
+page {
+  background: #f3f3f3;
+}
+
+button {
+  margin: 30px;
+}

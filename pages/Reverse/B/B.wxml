@@ -1,0 +1,5 @@
+<!--pages/Reverse/B/B.wxml-->
+
+  <button type='primary' bindtap='clickButtonAction'>
+  传值并返回
+  </button>

@@ -1,0 +1,10 @@
+/* pages/Forward/A/A.wxss */
+
+.desc {
+  font-size: 16px;
+  color: #333;
+}
+
+button {
+  margin: 30px;
+}

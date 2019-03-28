@@ -1,0 +1,23 @@
+/* pages/Reverse/A/A.wxss */
+
+.desc {
+  font-size: 16px;
+  color: #333;
+}
+
+button {
+  margin: 30px;
+}
+
+.result text {
+  font-size: 30px;
+  padding-left: 15px;
+  color: orchid;
+}
+
+.result view {
+  margin-top: 10px;
+  padding: 30px;
+  background: #f3f3f3;
+  color: #555;
+}
